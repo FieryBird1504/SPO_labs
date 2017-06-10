@@ -1,0 +1,9 @@
+*.exe
+*.obj
+*.o
+*.so
+*.dll
+*.bat
+client
+server
+
